@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="#">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+    <title>Clientes</title>
+</head>
+<body>
+    <header>
+        <h1 class="titulo" id="titulo">
+          Gestion de Clientes
+        </h1>
+      </header>
+      <!-- Botón para agregar clientes -->
+      <button class="btnAgregar" id="agregar" onclick="agregarCliente();">Agregar Cliente</button>
+      <!-- Inicio de la tabla -->
+      <section>
+        <table class="clientes" id="clientes">
+          <thead>
+            <tr>
+              <th>Nombre</th>
+              <th>Apellido</th>
+              <th>Email</th>
+              <th>Teléfono</th>
+              <th>Direccion</th>
+              <th>Acciones</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!--<td>Victor</td>
+            <td>Serna</td>
+            <td>sernav793@gmail.com</td>
+            <td>5555555555</td>
+            <td>Calle 26</td>
+            <td class="botones">
+              <button class="btnEditar">Editar</button>
+              <button class="btnEliminar">Eliminar</button>
+            </td>-->
+          </tbody>
+        </table>
+      </section>
+      <!-- Formulario para el registro de clientes -->
+      <section id="formulario" class="formulario" hidden>
+        <div id="tarjeta" class="tarjeta" aria-hidden="true">
+            <button class="btnCerrar" onclick="cerrarFormulario()">x</button>
+            <h2 class="titulo-tarjeta">Datos del Cliente</h2>
+              <div class="datos">
+                <input id="txtId" hidden placeholder="ID"></br>
+                <input id="txtNombre" type="text" placeholder="Nombre"/><br>
+                <input id="txtApellido" type="text" placeholder="Apellido"/><br>
+                <input id="txtEmail" type="email" placeholder="Email"/><br>
+                <input id="txtTelefono" type="tel" maxlength="10" placeholder="Teléfono"/><br>
+                <input id="txtDireccion" type="text" placeholder="Dirección"/><br>
+    
+                <div class="piePagina">
+                  <button class="btnGuardar" onclick="guardar();">Guardar</button>
+                </div>
+            </div>
+        </div>
+      </section>
+</body>
+</html>
