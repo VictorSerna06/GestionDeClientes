@@ -1,4 +1,4 @@
-<h1>GEstión de Clientes</h1>
+<h1>Gestión de Clientes</h1>
 Estado del proyecto: Finalizado
 
 <h2>Tecnoligías utilizadas: 
