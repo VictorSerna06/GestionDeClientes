@@ -21,7 +21,7 @@
     <h3>
         Llena el fromulario con los datos solicitados para resgistrar a tus clientes
         <br>
-        [![Gesti-n-de-Clientes-1.png](https://i.postimg.cc/8k94GLQq/Gesti-n-de-Clientes-1.png)](https://postimg.cc/c67wMgJm)
+        <img src="https://postimg.cc/c67wMgJm">
         <br>
         La página se actualizará automaticamente y los clientes aparecerán en la pantalla, además se agrgaran botones con la opción para <b>Editar</b> o <b>eliminar</b> un cliente
         <br>
