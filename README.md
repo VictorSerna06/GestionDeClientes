@@ -1,6 +1,5 @@
 <h1>Gestión de Clientes con Python</h1>
-</br>
-<h2>Página web para realizar un registro de clientes</h2>
+<h3>Página web para realizar un registro de clientes</h3>
 </br>
 <h2>Técnologias utilizadas</h2>
 </br>
