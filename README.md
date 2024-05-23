@@ -21,7 +21,7 @@
     <h3>
         Llena el fromulario con los datos solicitados para resgistrar a tus clientes
         <br>
-        <img src="https://github.com/VictorSerna06/GestionDeClientes/assets/93338966/738ed032-f008-4149-8c8f-22015da5c1ec">
+        <img src="https://github.com/VictorSerna06/GestionDeClientes/assets/93338966/738ed032-f008-4149-8c8f-22015da5c1ec" width="200", height="300">
         <br>
         La página se actualizará automaticamente y los clientes aparecerán en la pantalla, además se agrgaran botones con la opción para <b>Editar</b> o <b>eliminar</b> un cliente
         <br>
