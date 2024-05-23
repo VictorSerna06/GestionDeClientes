@@ -1,27 +1,27 @@
 <h1>Gestión de Clientes con Python</h1>
 <h3>Página web para realizar un registro de clientes</h3>
-</br>
+
 <h2>Técnologias utilizadas</h2>
-</br>
+
 <h3>
     <b>FrontEnd:</b>
     <br>
     HTML, CSS, JavaScrip
 </h3>
-</br>
+
 <h3>
     <b>BackEnd:</b> 
     <br>
     Phyton, Flask y PHPMyAdmin
 </h3>
-<br>
+
 <h2>
     <b>Descripción</b>
     <br>
     <h3>
         Llena el fromulario con los datos solicitados para resgistrar a tus clientes
         <br>
-        ![Gestión de Clientes_1](https://github.com/VictorSerna06/GestionDeClientes/assets/93338966/738ed032-f008-4149-8c8f-22015da5c1ec)
+        <img src="https://github.com/VictorSerna06/GestionDeClientes/assets/93338966/738ed032-f008-4149-8c8f-22015da5c1ec">
         <br>
         La página se actualizará automaticamente y los clientes aparecerán en la pantalla, además se agrgaran botones con la opción para <b>Editar</b> o <b>eliminar</b> un cliente
         <br>
