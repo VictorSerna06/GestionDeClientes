@@ -1,4 +1,4 @@
-<h1">Gestión de Clientes con Python</h1>
+<h1>Gestión de Clientes con Python</h1>
 <h3>Página web para realizar un registro de clientes</h3>
 
 <h2>Técnologias utilizadas</h2>
